@@ -1,0 +1,2 @@
+limits.service.max = 34
+limits.service.min = 38
